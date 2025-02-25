@@ -14,9 +14,10 @@
     --form-text-colour: rgba(187, 187, 187, 1);
     --button-text-colour: rgba(255, 255, 255, 1);
     /* ------------------------ */
-    --main-font: "Bilbo-Swash-Caps", "sans-serif";
-    --second-font: "Montserrat", "sans-serif";
-    --third-font: "RobotoSlab", "sans-serif";
+    --first-family: "Montserrat", sans-serif;
+    --second-family: "RobotoSlab", sans-serif;
+    --third-family: "DroidSerif", sans-serif;
+    --fourth-family: "Bilbo Swash Caps", sans-serif;
 
 }
 .container{
