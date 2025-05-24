@@ -1,8 +1,11 @@
+# Golden
+
 # Golden Services Website
 
 A responsive website showcasing services and featuring a contact form.
 
 ## Table of Contents
+
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
@@ -13,7 +16,9 @@ A responsive website showcasing services and featuring a contact form.
 - [Acknowledgments](#acknowledgments)
 
 ## Description
+
 This website template features:
+
 - Service offerings display with icons
 - Contact form functionality
 - Responsive navigation header
@@ -21,6 +26,7 @@ This website template features:
 - Clean and professional design
 
 ## Features
+
 - Responsive layout
 - Service cards with icons
 - Interactive contact form
@@ -28,6 +34,8 @@ This website template features:
 - Custom Google Fonts integration
 
 ## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/golden-services.git
+   ```
